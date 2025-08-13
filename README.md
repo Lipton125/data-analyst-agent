@@ -29,16 +29,9 @@ Make sure you have:
 ---
 
 
-- # public link
-
-eg: https://dd0b98d2abc3.ngrok-free.app
-![public link](final_public_link.png)
-
-- ### ADD "/api"
-
 ## Final link: public link + "/api"
 
-eg:  https://dd0b98d2abc3.ngrok-free.app/api
+[eg:  https://cheaply-central-glowworm.ngrok-free.app/api](https://cheaply-central-glowworm.ngrok-free.app/api)
 
 
 
